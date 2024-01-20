@@ -1,0 +1,4 @@
+agustin-admin-programmatic_accessKeys.csv
+agustin-admin-programmatic_credentials.csv
+*.pem
+.ipynb_checkpoints
